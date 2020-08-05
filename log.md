@@ -11,3 +11,15 @@
 **Today's Progress**: Learned more about using Light2D and LightOccluder2D. Started to play around with a playable character and movement.
 
 **Thoughts:** The built in Light2D and LightOccluder2D functionality is extremely easy to use. With the plan that I have now, my game will incorporate lighting heavily. Knowing that there is an easy to use framework in place for lighting gives me hope that some of the concepts I hope to implement will not be very difficult. Starting messing around with player movement. I'm not sure yet if I want to use the built in KinematicBody2D movement or roll my own in an Area2D. I'll likely go with the latter, as it's what my prior experience is, and I don't think I need the capabilities of KinematicBody2D for what I hope to create.
+
+### Day 2: August 3rd, 2020
+
+**Today's Progress**: Implemented vector based movement for Area2Ds as well as started messing around with the particle system.
+
+**Thoughts:** The particle system is pretty fully features. However, it doesn't seem to have the lighting capabilities that I may require. I'll likely need to look into rolling my own particles or creating some sort of customer shader for the existing particle system.
+
+### Day 3: August 4th, 2020
+
+**Today's Progress**: Starting to look into creating my own particles, but it turned into a refactoring day. Learned how to use plugins to create custom nodes and how to call in "library" functions.
+
+**Thoughts:** The refactoring I did today was very useful. I envision myself creating many reusable Nodes as I continue development. There's something nice about being able to pull in our own custom nodes into the scene, rather than calling library functions inside individual scripts. They each have their use and I'll need to be careful to use them appropriately.
