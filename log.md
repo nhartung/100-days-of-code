@@ -23,3 +23,9 @@
 **Today's Progress**: Starting to look into creating my own particles, but it turned into a refactoring day. Learned how to use plugins to create custom nodes and how to call in "library" functions.
 
 **Thoughts:** The refactoring I did today was very useful. I envision myself creating many reusable Nodes as I continue development. There's something nice about being able to pull in our own custom nodes into the scene, rather than calling library functions inside individual scripts. They each have their use and I'll need to be careful to use them appropriately.
+
+### Day 4: August 5th, 2020
+
+**Today's Progress**: Continued creating custom light particles. I have something basic working, but it needs a lot of customization in order to work appropriately. However, I think I've discovered where I want to put my focus for my first feature. The player collected light particles.
+
+**Thoughts:** I'm dealing with some pretty annoying editor bugs (I think). I need to find some time to submit an issue to Github. I've posted to discord, but no responses yet.
