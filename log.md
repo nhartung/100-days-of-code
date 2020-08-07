@@ -29,3 +29,10 @@
 **Today's Progress**: Continued creating custom light particles. I have something basic working, but it needs a lot of customization in order to work appropriately. However, I think I've discovered where I want to put my focus for my first feature. The player collected light particles.
 
 **Thoughts:** I'm dealing with some pretty annoying editor bugs (I think). I need to find some time to submit an issue to Github. I've posted to discord, but no responses yet.
+
+
+### Day 5: August 6th, 2020
+
+**Today's Progress**: Honestly, spent too much time messing around with the editor bug I talked about yesterday. I discoverd an open issue against it: https://github.com/godotengine/godot/issues/36592, although I'm not sure if it's a bug or "feature". I've implemented a workaround for now and am moving forward. Still working on the light particles.
+
+**Thoughts:** Editor bugs are annoying.
