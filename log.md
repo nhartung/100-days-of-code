@@ -36,3 +36,15 @@
 **Today's Progress**: Honestly, spent too much time messing around with the editor bug I talked about yesterday. I discoverd an open issue against it: https://github.com/godotengine/godot/issues/36592, although I'm not sure if it's a bug or "feature". I've implemented a workaround for now and am moving forward. Still working on the light particles.
 
 **Thoughts:** Editor bugs are annoying.
+
+### Day 6 August 7th, 2020
+
+**Today's Progress**: Played around with Visual Scripting.
+
+**Thoughts:** It's an interesting feature, but not one that I'll use personally. I mainly investigated it because I'm considering its use for a model-based design tool that I'm proposing at work.
+
+### Day 7 August 8th, 2020
+
+**Today's Progress**: Back on track, continued working on the CollectableLight. Got the movement to a place where I'm happy with in. Attraction is next.
+
+**Thoughts:** Nothing much.
