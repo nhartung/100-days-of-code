@@ -48,3 +48,9 @@
 **Today's Progress**: Back on track, continued working on the CollectableLight. Got the movement to a place where I'm happy with in. Attraction is next.
 
 **Thoughts:** Nothing much.
+
+### Day 8 August 9th, 2020
+
+**Today's Progress**: Got a lot of good functionality added to the CollectableLight. Movement works, attraction works, collection works. Could probably use some cleaning up, but the base functionality is there. 
+
+**Thoughts:** I could really use a particle that emits light to the scene. I could start looking into creating a custom shader with that behavior.
