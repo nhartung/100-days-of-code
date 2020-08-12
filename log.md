@@ -54,3 +54,15 @@
 **Today's Progress**: Got a lot of good functionality added to the CollectableLight. Movement works, attraction works, collection works. Could probably use some cleaning up, but the base functionality is there. 
 
 **Thoughts:** I could really use a particle that emits light to the scene. I could start looking into creating a custom shader with that behavior.
+
+### Day 9 August 10th, 2020
+
+**Today's Progress**: Played with shaders.
+
+**Thoughts:** AFter some playing around, I realized that I don't think a shader will solve my problem. I'm trying to create a new light source, not modify fragments based on lights. I'll need to go with a non-particle solution if I want to move forward with this approach. For now I can ignore this feature. Light emitting particles are required, but would be cool.
+
+### Day 10 August 10th, 2020
+
+**Today's Progress**: Played around with IES files to generate lights. I think I have a good idea on how I'm going to generate different lighting effects moving forward.
+
+**Thoughts:** I didn't actually do much coding, or learn anything towards Godot today. Hopefully I can get back on track towards that tomorrow. I got a bit distracted trying to get some cool new light effects to work. Although, what I've done today should go a long way towards some cool lighting effects for a finished game.
