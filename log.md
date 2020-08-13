@@ -61,8 +61,14 @@
 
 **Thoughts:** AFter some playing around, I realized that I don't think a shader will solve my problem. I'm trying to create a new light source, not modify fragments based on lights. I'll need to go with a non-particle solution if I want to move forward with this approach. For now I can ignore this feature. Light emitting particles are required, but would be cool.
 
-### Day 10 August 10th, 2020
+### Day 10 August 11th, 2020
 
 **Today's Progress**: Played around with IES files to generate lights. I think I have a good idea on how I'm going to generate different lighting effects moving forward.
 
 **Thoughts:** I didn't actually do much coding, or learn anything towards Godot today. Hopefully I can get back on track towards that tomorrow. I got a bit distracted trying to get some cool new light effects to work. Although, what I've done today should go a long way towards some cool lighting effects for a finished game.
+
+### Day 11 August 12th, 2020
+
+**Today's Progress**: Continued to play around with IES files and learned more about shaders. I figured that the use of IES exports might not quite work for my needs. No worries, it's not far off and I'm smart, I can generate the images I need using the IES files as a starting point. I created a shader that dampens the resulting IES light exports to make them look more realistic in a 2D environment. Now that I have that working I can hopefully generate some different lights and put together a cool little demo with them.
+
+**Thoughts:** Shaders are cool.
