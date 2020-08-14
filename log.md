@@ -72,3 +72,9 @@
 **Today's Progress**: Continued to play around with IES files and learned more about shaders. I figured that the use of IES exports might not quite work for my needs. No worries, it's not far off and I'm smart, I can generate the images I need using the IES files as a starting point. I created a shader that dampens the resulting IES light exports to make them look more realistic in a 2D environment. Now that I have that working I can hopefully generate some different lights and put together a cool little demo with them.
 
 **Thoughts:** Shaders are cool.
+
+### Day 12 August 13th, 2020
+
+**Today's Progress**: Playing around with lights and other assets that interact with them.
+
+**Thoughts:** Playing around with shaders yesterday paid off as I needed it today for some of the sprite work I was doing.
