@@ -78,3 +78,9 @@
 **Today's Progress**: Playing around with lights and other assets that interact with them.
 
 **Thoughts:** Playing around with shaders yesterday paid off as I needed it today for some of the sprite work I was doing.
+
+### Day 13 August 14th, 2020
+
+**Today's Progress**: Put together a "showcase" of what I've been working on. Still minimal, but looks kind of cool. Still working towards a concept, but I have some ideas.
+
+**Thoughts:** You can definitely create some cool aesthetics with lights, even in 2d.
