@@ -84,3 +84,9 @@
 **Today's Progress**: Put together a "showcase" of what I've been working on. Still minimal, but looks kind of cool. Still working towards a concept, but I have some ideas.
 
 **Thoughts:** You can definitely create some cool aesthetics with lights, even in 2d.
+
+### Day 14 August 14th, 2020
+
+**Today's Progress**: Got a camera and collisions working.
+
+**Thoughts:** Both were easy, but I needed to convert my Area2D objects into KinematicBody2Ds in order to have everything work properly. I could use some refactoring to pull out some common code.
