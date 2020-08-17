@@ -85,8 +85,14 @@
 
 **Thoughts:** You can definitely create some cool aesthetics with lights, even in 2d.
 
-### Day 14 August 14th, 2020
+### Day 14 August 15th, 2020
 
 **Today's Progress**: Got a camera and collisions working.
 
 **Thoughts:** Both were easy, but I needed to convert my Area2D objects into KinematicBody2Ds in order to have everything work properly. I could use some refactoring to pull out some common code.
+
+### Day 15 August 16th, 2020
+
+**Today's Progress**: Got some better sprites for the blocks I've been using. Started creating some moveable block clusters. I need to figure out a strategy for having the block anumations participate in the collision detection logic. Ideally while still using a Tween for movement.
+
+**Thoughts:** I think it's starting to look like it could actually be a game. I have some pretty cool concepts thought up as well. We'll see what the future holds.
