@@ -96,3 +96,9 @@
 **Today's Progress**: Got some better sprites for the blocks I've been using. Started creating some moveable block clusters. I need to figure out a strategy for having the block anumations participate in the collision detection logic. Ideally while still using a Tween for movement.
 
 **Thoughts:** I think it's starting to look like it could actually be a game. I have some pretty cool concepts thought up as well. We'll see what the future holds.
+
+### Day 16 August 17th, 2020
+
+**Today's Progress**: Fixed my collision issue. As it turns out, I need to call move_and_slide, even for cycles in which the movement vector is zero. Otherwise the physics engine will not operate.
+
+**Thoughts:** TileMaps greatly simplify a scene. I should also look into "AnimationPlayer" in leiu of using a set of Tweens for my environment movements.
