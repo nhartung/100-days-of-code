@@ -102,3 +102,9 @@
 **Today's Progress**: Fixed my collision issue. As it turns out, I need to call move_and_slide, even for cycles in which the movement vector is zero. Otherwise the physics engine will not operate.
 
 **Thoughts:** TileMaps greatly simplify a scene. I should also look into "AnimationPlayer" in leiu of using a set of Tweens for my environment movements.
+
+### Day 17 August 18th, 2020
+
+**Today's Progress**: Mostly a refactoring day. Switched the SquareTransform from using Tweens to instead using an AnimationPlayer. Better for many reasons. Also made the BigBlock textures a parameter that can be specified. Leveraging this in the SquareTransform allows me to make use of any textures I want for the object, meaning that I'll have common logic for any set of textures I want to apply this to.
+
+**Thoughts:** Godot is still surprising me with some of its capabilities that make life easier.
