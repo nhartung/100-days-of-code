@@ -108,3 +108,9 @@
 **Today's Progress**: Mostly a refactoring day. Switched the SquareTransform from using Tweens to instead using an AnimationPlayer. Better for many reasons. Also made the BigBlock textures a parameter that can be specified. Leveraging this in the SquareTransform allows me to make use of any textures I want for the object, meaning that I'll have common logic for any set of textures I want to apply this to.
 
 **Thoughts:** Godot is still surprising me with some of its capabilities that make life easier.
+
+### Day 18 August 19th, 2020
+
+**Today's Progress**: Started to create a concept for a light "generator". Honestly spend far too long trying to figure out a shader to generate the lighting effect I wanted. Got it rendered by the end of the day, so at least I'm not stuck. I'll continue the concept tomorrow.
+
+**Thoughts:** Shaders are powerful, but can be difficult.
