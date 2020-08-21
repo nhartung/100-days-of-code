@@ -114,3 +114,9 @@
 **Today's Progress**: Started to create a concept for a light "generator". Honestly spend far too long trying to figure out a shader to generate the lighting effect I wanted. Got it rendered by the end of the day, so at least I'm not stuck. I'll continue the concept tomorrow.
 
 **Thoughts:** Shaders are powerful, but can be difficult.
+
+### Day 18 August 20th, 2020
+
+**Today's Progress**: I refactored code related to move_and_slide. Apparently you aren't supposed to use the delta parameter when using this function. However, you are when you call move_and_collide. I assume there's a good reason, but it's odd. Anyway, continued work on the "Generator" concept that I'm working on. Got some cool animations working now. As usual, it was very easy to set up.
+
+**Thoughts:** Working with sprite sheets is super easy.
