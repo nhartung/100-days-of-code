@@ -120,3 +120,9 @@
 **Today's Progress**: I refactored code related to move_and_slide. Apparently you aren't supposed to use the delta parameter when using this function. However, you are when you call move_and_collide. I assume there's a good reason, but it's odd. Anyway, continued work on the "Generator" concept that I'm working on. Got some cool animations working now. As usual, it was very easy to set up.
 
 **Thoughts:** Working with sprite sheets is super easy.
+
+### Day 20 August 21th, 2020
+
+**Today's Progress**: Today I just continued to work away at the "Generator". Not much to report, no problems encountered. Just pure work.
+
+**Thoughts:** 20% of the way there. Wow, it flew by.
