@@ -126,3 +126,9 @@
 **Today's Progress**: Today I just continued to work away at the "Generator". Not much to report, no problems encountered. Just pure work.
 
 **Thoughts:** 20% of the way there. Wow, it flew by.
+
+### Day 21 August 22nd, 2020
+
+**Today's Progress**: Continued to work on the generator. It's actually starting to look pretty cool. I used a Path2D to animate some LightParticles internal to the generator when it's powered on. Makes it pretty clear when it's on vs off.
+
+**Thoughts:** Still continuing to learn and utilize new tools that I wouldn't have thought to look for to begin with. The Path2D is a lot easier than trying to hand code things to follow a path.
