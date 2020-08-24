@@ -132,3 +132,9 @@
 **Today's Progress**: Continued to work on the generator. It's actually starting to look pretty cool. I used a Path2D to animate some LightParticles internal to the generator when it's powered on. Makes it pretty clear when it's on vs off.
 
 **Thoughts:** Still continuing to learn and utilize new tools that I wouldn't have thought to look for to begin with. The Path2D is a lot easier than trying to hand code things to follow a path.
+
+### Day 22 August 23rd, 2020
+
+**Today's Progress**: Added a lot of polish to the Generator object. Added the ability for the player to shoot a light at the generator in order to power it. Spent some time playing around with a pretty cool shader effect for the Generator object. I'm really happy with how it turned out. Shaders ftw!
+
+**Thoughts:** Starting to really see the power of shaders.
