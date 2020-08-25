@@ -138,3 +138,9 @@
 **Today's Progress**: Added a lot of polish to the Generator object. Added the ability for the player to shoot a light at the generator in order to power it. Spent some time playing around with a pretty cool shader effect for the Generator object. I'm really happy with how it turned out. Shaders ftw!
 
 **Thoughts:** Starting to really see the power of shaders.
+
+### Day 23 August 24th, 2020
+
+**Today's Progress**: Added the boost effect to the player. Did some refactoring in the process. Nothing was difficult today. Just using skills that I've already gained.
+
+**Thoughts:** Tomorrow I should start on some form of GUI. Hopefully I'll learn some new skills.
