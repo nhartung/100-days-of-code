@@ -144,3 +144,10 @@
 **Today's Progress**: Added the boost effect to the player. Did some refactoring in the process. Nothing was difficult today. Just using skills that I've already gained.
 
 **Thoughts:** Tomorrow I should start on some form of GUI. Hopefully I'll learn some new skills.
+
+
+### Day 24 August 25th, 2020
+
+**Today's Progress**: Really didn't have much motivation today, but got my hour in. Started work on a GUI. Not much progress but learned a bit.
+
+**Thoughts:** The caffeine comedown is real.
