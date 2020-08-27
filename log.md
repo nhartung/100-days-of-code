@@ -151,3 +151,10 @@
 **Today's Progress**: Really didn't have much motivation today, but got my hour in. Started work on a GUI. Not much progress but learned a bit.
 
 **Thoughts:** The caffeine comedown is real.
+
+### Day 25 August 26th, 2020
+
+**Today's Progress**: Did enough to get bare GUI working. Even hooked it up to some real game logic.
+
+**Thoughts:** Working with the Control nodes is not fun. Lots of unintuitive settings. People online seem to agree.
+
