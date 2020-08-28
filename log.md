@@ -158,3 +158,9 @@
 
 **Thoughts:** Working with the Control nodes is not fun. Lots of unintuitive settings. People online seem to agree.
 
+### Day 26 August 27th, 2020
+
+**Today's Progress**: Created a autoloaded singleton to store the state for triggers. This allows inter-scene communication so that the effects of one can impact another. Using this for a powered generator so that it can control map transformations.
+
+**Thoughts:** Again, easy enough to do. Will be simple to expand this to further objects.
+
