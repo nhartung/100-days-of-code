@@ -164,3 +164,9 @@
 
 **Thoughts:** Again, easy enough to do. Will be simple to expand this to further objects.
 
+### Day 27 August 28th, 2020
+
+**Today's Progress**: Started to create my first enemy. The "SnakeEnemy"
+
+**Thoughts:** This is probably the last task to complete prior to day 30.
+
