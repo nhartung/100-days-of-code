@@ -170,3 +170,9 @@
 
 **Thoughts:** This is probably the last task to complete prior to day 30.
 
+### Day 28 August 29th, 2020
+
+**Today's Progress**: Continued to work on the "SnakeEnemy" Implemented a cool movement effect by re-using the "fuzz" shader I created for the generator.
+
+**Thoughts:** Already getting some re-use out of that shader. It was time well spent.
+
