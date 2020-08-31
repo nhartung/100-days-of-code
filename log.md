@@ -176,3 +176,9 @@
 
 **Thoughts:** Already getting some re-use out of that shader. It was time well spent.
 
+### Day 29 August 30th, 2020
+
+**Today's Progress**: Continued to work on the "SnakeEnemy". Trying to get its movement working. Had a lot of trouble getting RayCasting to work. Turns out the fact that my main "Game" object was offset for some amount was throwing off the calculations.
+
+**Thoughts:** Boo, feels like a wasted day.
+
